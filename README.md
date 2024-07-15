@@ -47,7 +47,7 @@ Visuals to represent different KPI's are mentioned below:
 
 ## Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+A dual page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard:
 
